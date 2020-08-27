@@ -1,0 +1,3 @@
+[submodule "roles/ansible-role-ec2-key"]
+	path = roles/ansible-role-ec2-key
+	url = https://github.com/matcra587/ansible-role-ec2-key
